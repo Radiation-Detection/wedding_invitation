@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wedding_invitation/static/css/main.06e90561.css",
-    "main.js": "/wedding_invitation/static/js/main.3302a5f6.js",
+    "main.js": "/wedding_invitation/static/js/main.2c91e0e0.js",
     "static/js/496.cf873d78.chunk.js": "/wedding_invitation/static/js/496.cf873d78.chunk.js",
     "static/media/NotoSansKR-Regular.otf": "/wedding_invitation/static/media/NotoSansKR-Regular.e1aa54c04a18648e6468.otf",
     "static/media/NanumMyeongjo-Regular.ttf": "/wedding_invitation/static/media/NanumMyeongjo-Regular.01893c39cd1a403ef0a5.ttf",
@@ -9,11 +9,11 @@
     "static/media/arrow-left.svg": "/wedding_invitation/static/media/arrow-left.0b41dd52f7613d6b91b7e6e0d542fa02.svg",
     "static/media/arrow-right.svg": "/wedding_invitation/static/media/arrow-right.e83f142c80834c55ca3f544eebaaca96.svg",
     "main.06e90561.css.map": "/wedding_invitation/static/css/main.06e90561.css.map",
-    "main.3302a5f6.js.map": "/wedding_invitation/static/js/main.3302a5f6.js.map",
+    "main.2c91e0e0.js.map": "/wedding_invitation/static/js/main.2c91e0e0.js.map",
     "496.cf873d78.chunk.js.map": "/wedding_invitation/static/js/496.cf873d78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06e90561.css",
-    "static/js/main.3302a5f6.js"
+    "static/js/main.2c91e0e0.js"
   ]
 }
