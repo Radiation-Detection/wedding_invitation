@@ -76,9 +76,9 @@ function Bride() {
               <div className='mainsection-text'>
                 <div className='mainsection-text-1'>결혼식에 초대합니다</div>
                 <div className='mainsection-text-2'>
-                  김신랑 <span className='text2-inner'> & </span> 이신부
+                  김경민 <span className='text2-inner'> & </span> 최정원
                 </div>
-                <div className='mainsection-text-3'>2023. 00. 0 토요일 오전 11시<br/>00대학교 웨딩홀</div>
+                <div className='mainsection-text-3'>2025. 09. 20. 토요일 오후 15시 30분<br/>경산 LOTUS101 단독웨딩홀</div>
               </div>
             </div>
             <div className='invitation-section'>
@@ -91,10 +91,10 @@ function Bride() {
                     격려해 주시면 감사하겠습니다.
               </div>
               <div className='invitation-section-text3'>
-                김아빠・이엄마<span className='text3-inner'>의 장남</span> 신랑
+                김부용・윤진숙<span className='text3-inner'>의 장남</span> 경민
               </div>
               <div className='invitation-section-text3'>
-                이아빠・박엄마<span className='text3-inner'>의 차녀</span> 신부
+                최홍수・이현숙숙<span className='text3-inner'>의 장녀</span> 정원
               </div>
             </div>
             <div className='gallery-section'>
@@ -144,7 +144,7 @@ function Bride() {
               </MapDiv>
             </div>
             <div className='location-info-section'>
-                <div className='location-info-section-text1'>이라운지 서울대점</div>
+                <div className='location-info-section-text1'>경산 LOTUS101</div>
                 <div className='location-info-section-text2'>
                     서울특별시 관악구 관악로 1<br/>
                     서울대학교 310동 엔지니어하우스<br/>
